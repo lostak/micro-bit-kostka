@@ -1,5 +1,5 @@
 
-> Open this page at [https://lostak.github.io/micro-bit-kostka/](https://lostak.github.io/micro-bit-kostka/)
+> Open this page at [https://lostak.github.io/micro-bit-dice/](https://lostak.github.io/micro-bit-dice/)
 
 ## Use as Extension
 
@@ -16,14 +16,14 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/lostak/micro-bit-kostka** and click import
+* paste **https://github.com/lostak/micro-bit-dice** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/lostak/micro-bit-kostka/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/lostak/micro-bit-dice/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
